@@ -1,0 +1,16 @@
+{
+    "cameragain": "0cb",
+    "expotime": "3.969997s",
+    "focallength": "450mm",
+    "fovradecdeg": "155.68146, 50.12871",
+    "fovradecdms": "10h22m43.5504s, +50d07m43.356s",
+    "framePurpose": "Darkframe",
+    "frameseqid": 1,
+    "imagedepth": 16,
+    "pipelinemode": "Science",
+    "sensormodel": "IMX347",
+    "serialnumber": "snj5g6",
+    "size": "2088x1536",
+    "timestamp": "2023-02-17T07-10-43.677",
+    "version": 2.3
+}
